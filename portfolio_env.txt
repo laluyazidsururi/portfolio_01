@@ -6,3 +6,7 @@ remote sensing
 GIS
 Drone for conservation
 
+Kebutuhan data:
+sampel analisa spasial
+mapping
+video workshop
